@@ -7,7 +7,6 @@
 
 > Android 设备自动化 MCP — 让你的 AI 直接操控手机/模拟器抢大麦 / 猫眼 / 飞猪门票。
 
-大热门场次（¥921 + 0.5 秒开抢）下，**手动抢等于送人头**。本项目用 [Model Context Protocol](https://modelcontextprotocol.io) 把 ADB 操作封装成 30+ 个工具，让 Claude Code / Cursor / 自定义 Agent 都能像人一样操作大麦 APP，关键路径比手快 200~500 ms。
 
 ---
 
